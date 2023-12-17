@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!--Created by Liquid XML 2008 (www.liquid-technologies.com) for Altera-->
+<ProgramExecution xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+	<QuartusExecution>
+		<AddressBits>64</AddressBits>
+		<ApplicationError>
+		<Bits>64</Bits>
+		<CommandLine>quartus</CommandLine>
+		<ErrorMessage>Access Violation at 0X00007FFE2A09168D</ErrorMessage>
+		<Line>0</Line>
+		<Platform>windows</Platform>
+		<SourceFile>unknown</SourceFile>
+		<StackTrace>
+	0x7ffe2a09168c: (RtlEnterCriticalSection + 0xc)
+	0x7ffe085e226a: (Ordinal998 + 0x226a)
+	0x7ffe085e101c: (Ordinal998 + 0x101c)
+	0x7ffe085e91a3: (WTMgrCsrPressureBtnMarksEx + 0x793)
+	0x7ffe2a09868e: (RtlActivateActivationContextUnsafeFast + 0x12e)
+	0x7ffe2a0c1095: (LdrShutdownProcess + 0x175)
+	0x7ffe2a0c0c8c: (RtlExitUserProcess + 0xac)
+	0x7ffe28267faa: (ExitProcess + 0xa)
+	 0x6db80ccc: (_get_pgmptr + 0x248)
+	0x7ff7237413f5:
+	0x7ffe2826257c: (BaseThreadInitThunk + 0x1c)
+	0x7ffe2a0caa77: (RtlUserThreadStart + 0x27)
+		</StackTrace>
+		<Subsystem>unknown</Subsystem>
+	</ApplicationError>
+	<Compilation>
+			<CompileID>0</CompileID>
+			<DeviceFamily/>
+			<IncrementalCompilation/>
+			<TopLevelEntityName/>
+		</Compilation>
+		<DateInvoked>2023/12/17 02:46:24</DateInvoked>
+		<ElapsedTime>740</ElapsedTime>
+		<IP>169.254.249.0,169.254.134.255,192.168.31.86</IP>
+		<IsInternal>false</IsInternal>
+		<IsQt>true</IsQt>
+		<License>
+			<Edition>Full Version</Edition>
+			<LicenseHostID/>
+		</License>
+		<Machine>
+			<CPUCountLogical>16</CPUCountLogical>
+			<CPUCountPhysical>1</CPUCountPhysical>
+			<CPUSpeed>3194</CPUSpeed>
+			<Hostname>LAPTOP-A2M660B4</Hostname>
+			<NIC>
+				<Address>4cd5770a8422</Address>
+			</NIC>
+			<NIC>
+				<Address>005056c00001</Address>
+			</NIC>
+			<NIC>
+				<Address>005056c00008</Address>
+			</NIC>
+			<NIC>
+				<Address>4cd5770a8421</Address>
+			</NIC>
+			<NIC>
+				<Address>4ed5770aa401</Address>
+			</NIC>
+			<NIC>
+				<Address>4ed5770ab411</Address>
+			</NIC>
+			<OS>Windows 7</OS>
+			<OSAddressBits>64</OSAddressBits>
+			<OSVersion>6.2</OSVersion>
+			<Platform>windows</Platform>
+			<ScreenResolution>unknown</ScreenResolution>
+			<TotalPhysicalRAM>14188</TotalPhysicalRAM>
+			<TotalVirtualRAM>8338</TotalVirtualRAM>
+		</Machine>
+		<Name>quartus</Name>
+		<PeakMemoryUsed>0</PeakMemoryUsed>
+		<ProjectRevision>
+			<ProjectName/>
+			<Revision/>
+		</ProjectRevision>
+		<QuartusInstallation>
+			<InstallationID>0</InstallationID>
+			<Version>
+				<Build>162</Build>
+				<BuildSite>SJ</BuildSite>
+				<BuildSuffix/>
+				<Edition>Full Version</Edition>
+				<ServicePack>0</ServicePack>
+				<VersionNumber>13.1</VersionNumber>
+			</Version>
+		</QuartusInstallation>
+		<QuartusUser>
+			<AlteraUserName/>
+			<FAEContactName/>
+			<TalkbackStatus>
+				<DateSet/>
+				<TalkbackOn>true</TalkbackOn>
+			</TalkbackStatus>
+			<UserID>84479708922914.170275205817316</UserID>
+			<UserName>ALanStewart</UserName>
+		</QuartusUser>
+	</QuartusExecution>
+	<SchemaVersion>schema_2013-01-18</SchemaVersion>
+</ProgramExecution>
+
