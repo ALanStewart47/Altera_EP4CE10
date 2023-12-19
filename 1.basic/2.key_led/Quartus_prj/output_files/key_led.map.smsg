@@ -1,1 +1,1 @@
-Warning (10268): Verilog HDL information at key_led.v(34): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at key_led.v(34): always construct contains both blocking and non-blocking assignments File: E:/Altera_EP4CE10/1.basic/2.key_led/Rtl/key_led.v Line: 34

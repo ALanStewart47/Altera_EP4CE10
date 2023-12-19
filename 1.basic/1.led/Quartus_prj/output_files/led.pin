@@ -64,7 +64,7 @@
  ---------------------------------------------------------------------------------
 
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
-CHIP  "key_led"  ASSIGNED TO AN: EP4CE10F17C8
+CHIP  "led"  ASSIGNED TO AN: EP4CE10F17C8
 
 Pin Name/Usage               : Location  : Dir.   : I/O Standard      : Voltage : I/O Bank  : User Assignment
 -------------------------------------------------------------------------------------------------------------
@@ -146,8 +146,8 @@ RESERVED_INPUT_WITH_WEAK_PULLUP : E11       :        :                   :      
 GNDA2                        : E12       : gnd    :                   :         :           :                
 GND                          : E13       : gnd    :                   :         :           :                
 VCCIO6                       : E14       : power  :                   : 2.5V    : 6         :                
-key[1]                       : E15       : input  : 2.5 V             :         : 6         : Y              
-key[0]                       : E16       : input  : 2.5 V             :         : 6         : Y              
+GND+                         : E15       :        :                   :         : 6         :                
+GND+                         : E16       :        :                   :         : 6         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : F1        :        :                   :         : 1         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : F2        :        :                   :         : 1         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : F3        :        :                   :         : 1         :                
@@ -258,8 +258,8 @@ RESERVED_INPUT_WITH_WEAK_PULLUP : M11       :        :                   :      
 RESERVED_INPUT_WITH_WEAK_PULLUP : M12       :        :                   :         : 5         :                
 GND                          : M13       : gnd    :                   :         :           :                
 VCCIO5                       : M14       : power  :                   : 2.5V    : 5         :                
-key[2]                       : M15       : input  : 2.5 V             :         : 5         : Y              
-key[3]                       : M16       : input  : 2.5 V             :         : 5         : Y              
+GND+                         : M15       :        :                   :         : 5         :                
+GND+                         : M16       :        :                   :         : 5         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : N1        :        :                   :         : 2         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : N2        :        :                   :         : 2         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : N3        :        :                   :         : 3         :                
