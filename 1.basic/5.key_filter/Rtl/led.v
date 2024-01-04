@@ -5,7 +5,7 @@ module led(
 
     input       key_flag,
     input       key_value,
-    output      led,
+    output   reg   led
 );
 
 always @(posedge sys_clk  or negedge sys_rst_n )begin
