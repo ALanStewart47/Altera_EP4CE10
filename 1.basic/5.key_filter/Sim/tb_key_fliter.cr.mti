@@ -1,0 +1,29 @@
+E:/Altera_EP4CE10/1.basic/5.key_filter/Sim/tb/tb_top_led.v {1 {vlog -work work -vopt -stats=none E:/Altera_EP4CE10/1.basic/5.key_filter/Sim/tb/tb_top_led.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module tb_top_led
+
+Top level modules:
+	tb_top_led
+
+} {} {}} E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/led.v {1 {vlog -work work -vopt -stats=none E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/led.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module led
+
+Top level modules:
+	led
+
+} {} {}} E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/key_fliter.v {1 {vlog -work work -vopt -stats=none E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/key_fliter.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module key_fliter
+
+Top level modules:
+	key_fliter
+
+} {} {}} E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/top_key_led.v {1 {vlog -work work -vopt -stats=none E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/top_key_led.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module top_led
+
+Top level modules:
+	top_led
+
+} {} {}}

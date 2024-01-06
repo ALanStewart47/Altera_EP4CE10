@@ -19,7 +19,7 @@ always @(posedge sys_clk or negedge sys_rst_n) begin
         key_reg <= key;
 
         if(key_reg  != key)
-            delay_cnt   <=  32'd1000000;
+            delay_cnt   <=  32'd10;   //32'd1000000
 
         else if(key_reg ==  key)  begin
             if(delay_cnt > 32'd0)

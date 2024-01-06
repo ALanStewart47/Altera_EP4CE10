@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/modeltech64_10.5/examples
+T_opt
+!s110 1704531400
+VZGTkKbnCeLHUJkklM;FTB2
+04 15 4 work top_led_vlg_tst fast 0
+=1-ecd68acac16f-659915c5-12b-6094
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+R0
+vkey_fliter
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 MT2faXo0MMTL@ET>^QN@S0
+INGKVz<Ckg^adCZmZmQXQ@0
+Z3 dE:/Altera_EP4CE10/1.basic/5.key_filter/Sim
+w1704529487
+8E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/key_fliter.v
+FE:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/key_fliter.v
+L0 1
+Z4 OL;L;10.5;63
+Z5 !s108 1704531449.000000
+!s107 E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/key_fliter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/key_fliter.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vled
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 G:K7XHVnR`>zmX_a0d4eV0
+IM7b1?z2FD9Uil;Y0Hzd9J0
+R3
+w1704367053
+8E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/led.v
+FE:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/led.v
+L0 2
+R4
+R5
+!s107 E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/led.v|
+!i113 0
+R6
+R1
+vtb_top_led
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 VO0kll]P]OhODDije_bni2
+IooTcFRJU^gNG@ZfP9Bo5=3
+R3
+w1704531199
+8E:/Altera_EP4CE10/1.basic/5.key_filter/Sim/tb/tb_top_led.v
+FE:/Altera_EP4CE10/1.basic/5.key_filter/Sim/tb/tb_top_led.v
+Z7 L0 28
+R4
+R5
+!s107 E:/Altera_EP4CE10/1.basic/5.key_filter/Sim/tb/tb_top_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Altera_EP4CE10/1.basic/5.key_filter/Sim/tb/tb_top_led.v|
+!i113 0
+R6
+R1
+vtop_led
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 zIZH;o16RLbm3]QOVN;K70
+IXWDEYE5G=72dlD^7XHSm`3
+R3
+w1704367369
+8E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/top_key_led.v
+FE:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/top_key_led.v
+L0 1
+R4
+R5
+!s107 E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/top_key_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Altera_EP4CE10/1.basic/5.key_filter/Rtl/top_key_led.v|
+!i113 0
+R6
+R1
+vtop_led_vlg_tst
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 KFlk@Q=26iAA?BGE[HIdF3
+I6M>9TJTT?IV=]gVRG_JJz3
+R3
+w1704529819
+8E:\Altera_EP4CE10\1.basic\5.key_filter\Sim\tb\top_led.v
+FE:\Altera_EP4CE10\1.basic\5.key_filter\Sim\tb\top_led.v
+R7
+R4
+!s108 1704530596.000000
+!s107 E:\Altera_EP4CE10\1.basic\5.key_filter\Sim\tb\top_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\Altera_EP4CE10\1.basic\5.key_filter\Sim\tb\top_led.v|
+!i113 0
+R6
+R1
